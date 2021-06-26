@@ -1,2 +1,2 @@
 # Browser-using-PyQt5-
-Create simple browser using Python and PyQt5 
+Created simple browser using Python and PyQt5 
